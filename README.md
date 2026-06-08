@@ -7,3 +7,7 @@ Features:
 - Pomodoro timer
 - Eisenhower matrix
 - User profile tracking
+
+Tools Used
+- Figma (for design)
+- GitHub (for project submission)
